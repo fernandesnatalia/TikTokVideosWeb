@@ -1,6 +1,6 @@
 ### Demonstração de renderização do loop de vídeos do TikTok responsivo
 
-![Gif da aplicação rodando no navegador](gif).
+![Gif da aplicação rodando no navegador](https://github.com/fernandesnatalia/TikTokVideosWeb/blob/master/readme/tiktok.gif)
 
 ## Ferramentas utilizadas :hammer:
 
