@@ -1,0 +1,18 @@
+.videoSideBar{
+    position: absolute;
+    top: 50%;
+    right: 10px;
+}
+
+.videoSideBar_Options{
+    margin-right: 10px;
+    margin-bottom: 50px;
+    text-align: center;
+    filter: invert(1);
+}
+
+@media only screen and (max-width: 440px) {
+    .videoSideBar{
+        top: 46%;
+    }
+}
